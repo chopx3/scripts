@@ -9,7 +9,7 @@
 // @grant        GM_xmlhttpRequest
 // ==/UserScript==
 var serverURL = "10.10.36.50";
-var testVar = "";
+var testVar = "test";
 var commentBlock =
 '<div class="comment-block" id="comment-block">'+
 '  <div class="panel panel-default panel-comments">'+
